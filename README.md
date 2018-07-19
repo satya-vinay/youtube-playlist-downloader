@@ -1,2 +1,7 @@
-# YouTube-PlayList-Sorter
-Downloads Youtube Playlist and Sort the videos according to the playlist order.
+
+
+
+## :floppy_disk: Installation
+```sh
+$ pip install -r requirements.txt
+```
